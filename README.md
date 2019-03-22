@@ -1,13 +1,12 @@
 
-## Project Name
+## Lab 05 Bitmap
 
-### Author: Student/Group Name
+### Author: Greg and Cory
 
 ### Links and Resources
 * [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
+* Travis([![Build Status](https://www.travis-ci.com/dukes-js-401/lab05-bitmap.svg?branch=master)](https://www.travis-ci.com/dukes-js-401/lab05-bitmap))
+* [Heroku](https://vast-beyond-56561.herokuapp.com/) ()
 
 #### Documentation
 * [swagger](http://xyz.com) (API assignments only)
