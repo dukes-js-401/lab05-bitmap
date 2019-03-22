@@ -4,7 +4,7 @@
 ### Author: Greg and Cory
 
 ### Links and Resources
-* [repo](http://xyz.com)
+* [repo](https://github.com/dukes-js-401/lab05-bitmap/compare/submission?expand=1)
 * Travis([![Build Status](https://www.travis-ci.com/dukes-js-401/lab05-bitmap.svg?branch=master)](https://www.travis-ci.com/dukes-js-401/lab05-bitmap))
 * [Heroku](https://vast-beyond-56561.herokuapp.com/) ()
 
