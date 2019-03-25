@@ -4,7 +4,7 @@
 ### Author: Greg and Cory
 
 ### Links and Resources
-* [repo](http://xyz.com)
+* [repo](https://github.com/dukes-js-401/lab05-bitmap/compare/submission?expand=1)
 * Travis([![Build Status](https://www.travis-ci.com/dukes-js-401/lab05-bitmap.svg?branch=master)](https://www.travis-ci.com/dukes-js-401/lab05-bitmap))
 * [Heroku](https://vast-beyond-56561.herokuapp.com/) ()
 
@@ -13,19 +13,10 @@
 * [jsdoc](http://xyz.com) (All assignments)
 
 ### Modules
-#### `modulename.js`
-##### Exported Values and Methods
 
-###### `foo(thing) -> string`
-Usage Notes or examples
-
-###### `bar(array) -> array`
-Usage Notes or examples
 
 ### Setup
-#### `.env` requirements
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
+
 
 #### Running the app
 * `npm start`
